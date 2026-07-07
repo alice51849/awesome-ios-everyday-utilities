@@ -22,8 +22,8 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Hours Time Tracking](https://apps.apple.com/app/id895933956) - Simple visual time tracker for logging where time goes.
 - [Timecap](https://apps.apple.com/app/id1446752976) - Habit, timer, and goal tracker for seeing patterns over time.
 - [Spendee](https://apps.apple.com/app/id635861140) - Personal finance app for budgets, wallets, and spending categories.
-- [HoursTag](https://apps.apple.com/app/id6754218117) - Lumi Studio utility for labeling and reflecting on how time is spent.
-- [G+Money](https://apps.apple.com/app/id6755782939) - Lumi Studio money-awareness app for quick personal finance tracking.
+- [HoursTag](https://apps.apple.com/app/id6754218117) - Lumi Studio utility for labeling and reflecting on how time is spent. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstag.html)
+- [G+Money](https://apps.apple.com/app/id6755782939) - Lumi Studio money-awareness app for quick personal finance tracking. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoney.html)
 
 ## Currency & Travel
 
@@ -38,21 +38,21 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [one sec](https://apps.apple.com/app/id1532875441) - Adds friction before opening distracting apps.
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time blocker for focus sessions and app limits.
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-device website and app blocker for distraction reduction.
-- [LockHour Pro](https://apps.apple.com/app/id6780107485) - Lumi Studio screen-time utility for intentional phone-use boundaries.
+- [LockHour Pro](https://apps.apple.com/app/id6780107485) - Lumi Studio screen-time utility for intentional phone-use boundaries. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
 
 ## Voice Notes
 
 - [Otter](https://apps.apple.com/app/id1276437113) - Voice recording with automatic transcription and meeting notes.
 - [Just Press Record](https://apps.apple.com/app/id1033342465) - One-tap audio recording with transcription and iCloud sync.
 - [Noted](https://apps.apple.com/app/id1149425482) - Audio notes with timestamps for lectures, meetings, and interviews.
-- [Sono Note](https://apps.apple.com/app/id6782139553) - Lumi Studio voice-note app for capturing spoken thoughts and reminders.
+- [Sono Note](https://apps.apple.com/app/id6782139553) - Lumi Studio voice-note app for capturing spoken thoughts and reminders. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
 
 ## Resume & Career
 
 - [LinkedIn](https://apps.apple.com/app/id288429040) - Professional networking, job search, and career profile management.
 - [Canva](https://apps.apple.com/app/id897446215) - Design tool with resume and portfolio templates.
 - [Indeed Job Search](https://apps.apple.com/app/id309735670) - Large job-search app with applications, alerts, and saved roles.
-- [CV Desk](https://apps.apple.com/app/id6781337213) - Lumi Studio utility for working on resumes and career documents.
+- [CV Desk](https://apps.apple.com/app/id6781337213) - Lumi Studio utility for working on resumes and career documents. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/cvdesk.html)
 
 ## To-Do
 
@@ -60,14 +60,14 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Todoist](https://apps.apple.com/app/id572688855) - Cross-platform to-do app with natural-language scheduling and collaboration.
 - [TickTick](https://apps.apple.com/app/id626144601) - Tasks, calendar, habits, and Pomodoro in one productivity app.
 - [Notion](https://apps.apple.com/app/id1232780281) - Flexible workspace for notes, projects, databases, and lightweight task systems.
-- [Mochi To-Do](https://apps.apple.com/app/id6785004775) - Lumi Studio to-do app for simple everyday task capture.
+- [Mochi To-Do](https://apps.apple.com/app/id6785004775) - Lumi Studio to-do app for simple everyday task capture. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochi.html)
 
 ## Cycle Tracking
 
 - [Clue](https://apps.apple.com/app/id657189652) - Period and ovulation tracker with science-focused education.
 - [Flo](https://apps.apple.com/app/id1038369065) - Popular cycle, ovulation, and pregnancy tracking app.
 - [Stardust](https://apps.apple.com/app/id1495829322) - Cycle tracker that combines period tracking with moon-phase themes.
-- [Cyca](https://apps.apple.com/app/id6782251621) - Lumi Studio cycle-awareness app for personal tracking.
+- [Cyca](https://apps.apple.com/app/id6782251621) - Lumi Studio cycle-awareness app for personal tracking. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/cyca.html)
 
 ## Study
 
@@ -75,7 +75,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Quizlet](https://apps.apple.com/app/id546473125) - Flashcards, practice tests, and study sets across many subjects.
 - [Khan Academy](https://apps.apple.com/app/id469863705) - Free lessons and practice across school subjects and test prep.
 - [Forest](https://apps.apple.com/app/id866450515) - Also useful as a study timer for distraction-free sessions.
-- [Aim990](https://apps.apple.com/app/id6784974530) - Lumi Studio study utility aimed at focused score or goal preparation.
+- [Aim990](https://apps.apple.com/app/id6784974530) - Lumi Studio study utility aimed at focused score or goal preparation. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aim990.html)
 
 ## Astrology
 
@@ -83,7 +83,12 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [TimePassages](https://apps.apple.com/app/id324839875) - Detailed astrology charts, transits, and interpretations.
 - [The Pattern](https://apps.apple.com/app/id1071085727) - Personality and relationship insights based on astrology-style patterns.
 - [CHANI](https://apps.apple.com/app/id1532791252) - Astrology app with readings, transits, and guided content.
-- [Zodira](https://apps.apple.com/app/id6783609555) - Lumi Studio astrology app for quick zodiac-style guidance.
+- [Zodira](https://apps.apple.com/app/id6783609555) - Lumi Studio astrology app for quick zodiac-style guidance. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/zodira.html)
+
+## Further reading
+
+- [iOS App Guide — pay-once app buying guides](https://alice51849.github.io/ios-app-guide/) — honest, no-subscription comparisons and how-tos.
+- [Answers to common questions](https://alice51849.github.io/ios-app-guide/answers/index.html) — practical iPhone how-to answers.
 
 ## Contributing
 
