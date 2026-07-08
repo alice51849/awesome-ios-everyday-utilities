@@ -98,3 +98,12 @@ Please open an issue or pull request with the App Store link, category, one-line
 
 CC0 1.0 Universal. See [LICENSE](LICENSE).
 
+
+## Related lists
+
+- [Awesome iOS Pay-Once Apps](https://github.com/alice51849/awesome-ios-pay-once)
+- [Awesome iOS Privacy-First Apps](https://github.com/alice51849/awesome-ios-privacy-first)
+- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
+- [Awesome iOS Kids Learning](https://github.com/alice51849/awesome-ios-kids-learning)
+- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
+
