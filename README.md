@@ -7,6 +7,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Time & Money Awareness](#time--money-awareness)
 - [Currency & Travel](#currency--travel)
 - [Focus & Screen Time](#focus--screen-time)
+- [Sleep & Sound](#sleep--sound)
 - [Voice Notes](#voice-notes)
 - [Resume & Career](#resume--career)
 - [To-Do](#to-do)
@@ -31,6 +32,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Currency](https://apps.apple.com/app/id284942566) - Lightweight converter for quick travel and shopping calculations.
 - [TravelSpend](https://apps.apple.com/app/id1435555567) - Trip expense tracker for budgeting travel costs across currencies.
 - [Splitwise](https://apps.apple.com/app/id458023433) - Shared expense tracker for trips, roommates, and groups.
+- [TripBee](https://apps.apple.com/app/id6787754435) - Lumi Studio pay-once trip planner with day-by-day itineraries and offline access. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/tripbee.html)
 
 ## Focus & Screen Time
 
@@ -39,6 +41,12 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time blocker for focus sessions and app limits.
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-device website and app blocker for distraction reduction.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) - Lumi Studio screen-time utility for intentional phone-use boundaries. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
+
+## Sleep & Sound
+
+- [Rain Rain Sleep Sounds](https://apps.apple.com/app/id942541965) - Large library of rain and ambient loops for sleep and relaxation.
+- [BetterSleep](https://apps.apple.com/app/id1235640465) - Sleep sounds, stories, and tracking for winding down at night.
+- [Sereno](https://apps.apple.com/app/id6788236641) - Lumi Studio pay-once sound machine — mixable white/brown noise for sleep, focus and calm, offline. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/sereno.html)
 
 ## Voice Notes
 
