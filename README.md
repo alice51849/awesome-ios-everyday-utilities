@@ -102,16 +102,23 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 
 Please open an issue or pull request with the App Store link, category, one-line factual description, and why the app is useful. This list is not a ranking and does not accept paid placements.
 
+## Related lists
+
+Part of a family of curated, pay-once / privacy-first iOS app lists:
+
+- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
+- [Awesome iOS Kids Learning](https://github.com/alice51849/awesome-ios-kids-learning)
+- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
+- [Awesome iOS For Students](https://github.com/alice51849/awesome-ios-for-students)
+- [Awesome iOS Privacy-First](https://github.com/alice51849/awesome-ios-privacy-first)
+- [Awesome iOS Pay-Once](https://github.com/alice51849/awesome-ios-pay-once)
+- [Awesome iOS Health & Wellness](https://github.com/alice51849/awesome-ios-health-wellness)
+- [Awesome iOS Money & Budgeting](https://github.com/alice51849/awesome-ios-money-budgeting)
+
+For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
+
 ## License
 
 CC0 1.0 Universal. See [LICENSE](LICENSE).
 
-
-## Related lists
-
-- [Awesome iOS Pay-Once Apps](https://github.com/alice51849/awesome-ios-pay-once)
-- [Awesome iOS Privacy-First Apps](https://github.com/alice51849/awesome-ios-privacy-first)
-- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
-- [Awesome iOS Kids Learning](https://github.com/alice51849/awesome-ios-kids-learning)
-- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
 
