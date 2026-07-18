@@ -2,6 +2,8 @@
 
 A curated list of useful iPhone apps for everyday life: time, money, focus, notes, career, tasks, health tracking, study, and astrology. This is a balanced, non-ranked list of established apps and smaller focused utilities.
 
+> **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
+
 ## Contents
 
 - [Time & Money Awareness](#time--money-awareness)
@@ -33,6 +35,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [TravelSpend](https://apps.apple.com/app/id1435555567) - Trip expense tracker for budgeting travel costs across currencies.
 - [Splitwise](https://apps.apple.com/app/id458023433) - Shared expense tracker for trips, roommates, and groups.
 - [TripBee](https://apps.apple.com/app/id6787754435) - Lumi Studio pay-once trip planner with day-by-day itineraries and offline access. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/tripbee.html)
+- [TripBee Lite](https://apps.apple.com/app/id6791299610) - Plan one complete journey free, with an optional one-time unlock; no account, ads, tracking, or subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbeelite.html)
 
 ## Focus & Screen Time
 
@@ -84,6 +87,8 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Khan Academy](https://apps.apple.com/app/id469863705) - Free lessons and practice across school subjects and test prep.
 - [Forest](https://apps.apple.com/app/id866450515) - Also useful as a study timer for distraction-free sessions.
 - [Aim990](https://apps.apple.com/app/id6784974530) - Lumi Studio study utility aimed at focused score or goal preparation. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aim990.html)
+- [Wordmate](https://apps.apple.com/app/id6789917808) - Pay-once vocabulary practice across 44 languages with examples, a Home Screen widget, and Apple Watch support. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmate.html)
+- [DailyMate](https://apps.apple.com/app/id6790418321) - Pay-once practice for 8,400 real-life phrases across 47 languages on iPhone, iPad, widgets, and Apple Watch. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/dailymate.html)
 
 ## Astrology
 
@@ -96,6 +101,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 ## Further reading
 
 - [iOS App Guide — pay-once app buying guides](https://alice51849.github.io/ios-app-guide/) — honest, no-subscription comparisons and how-tos.
+- [Publisher-verified 28-app finder](https://alice51849.github.io/ios-app-guide/tools/private-pay-once-iphone-app-finder.html) — filter every live Lumi Studio app by task, purchase model, privacy fact, widget, and Apple Watch support.
 - [Answers to common questions](https://alice51849.github.io/ios-app-guide/answers/index.html) — practical iPhone how-to answers.
 
 ## Contributing
@@ -121,5 +127,3 @@ For full app guides, comparisons and buying advice, see the **[iOS App Guide](ht
 ## License
 
 CC0 1.0 Universal. See [LICENSE](LICENSE).
-
-
