@@ -43,6 +43,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [one sec](https://apps.apple.com/app/id1532875441) - Adds friction before opening distracting apps.
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time blocker for focus sessions and app limits.
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-device website and app blocker for distraction reduction.
+- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-everyday-utilities) - Screen-time detox app with on-device blocking, focus rules, and a daily streak. · [disclosure](https://shantj.github.io/sproutguard/): written by its developer.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) - Lumi Studio screen-time utility for intentional phone-use boundaries. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
 
 ## Sleep & Sound
