@@ -39,7 +39,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Currency](https://apps.apple.com/app/id284942566) - Lightweight converter for quick travel and shopping calculations.
 - [TravelSpend](https://apps.apple.com/app/id1435555567) - Trip expense tracker for budgeting travel costs across currencies.
 - [Splitwise](https://apps.apple.com/app/id458023433) - Shared expense tracker for trips, roommates, and groups.
-- [TripBee](https://apps.apple.com/app/id6787754435) - Lumi Studio pay-once trip planner with day-by-day itineraries and offline access. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/tripbee.html)
+- [TripBee](https://apps.apple.com/app/id6787754435) - Lumi Studio pay-once trip planner with day-by-day itineraries and offline access. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbee.html)
 - [TripBee Lite](https://apps.apple.com/app/id6791299610) - Plan one complete journey free, with an optional one-time unlock; no account, ads, tracking, or subscription. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbeelite.html)
 - [G+Money Lite](https://apps.apple.com/app/id6793436548) - Lumi Studio travel expense tracker with currency conversion and saved offline rates; one trip free, one-time unlock for more. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoneylite.html)
 - [DailyMate Lite](https://apps.apple.com/app/id6794725568) - Lumi Studio situational travel phrasebook with speaking practice across 50 languages; free to start. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/dailymatelite.html)
@@ -56,7 +56,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 
 - [Rain Rain Sleep Sounds](https://apps.apple.com/app/id942541965) - Large library of rain and ambient loops for sleep and relaxation.
 - [BetterSleep](https://apps.apple.com/app/id1235640465) - Sleep sounds, stories, and tracking for winding down at night.
-- [Sereno](https://apps.apple.com/app/id6788236641) - Lumi Studio pay-once sound machine — mixable white/brown noise for sleep, focus and calm, offline. · [in-depth guide](https://alice51849.github.io/ios-app-guide/guides/sereno.html)
+- [Sereno](https://apps.apple.com/app/id6788236641) - Lumi Studio pay-once sound machine — mixable white/brown noise for sleep, focus and calm, offline. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sereno.html)
 
 ## Voice Notes
 
@@ -71,6 +71,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [SaveTag](https://apps.apple.com/app/id6802505528) - Lumi Studio read-later bookmark manager for saving links now and actually reading them later. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/savetag.html)
 - [AI Brief](https://apps.apple.com/app/id6791658210) - Lumi Studio utility that turns screenshots, PDFs, and notes into an organized context brief before you ask an AI assistant. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aibriefpack.html)
 - [OnePage PPT](https://apps.apple.com/app/id6798814385) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/onepageppt.html)
+- [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio document scanner with on-device OCR and Face ID lock; scanning and text recognition work offline. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/scanto.html)
 
 ## Resume & Career
 
