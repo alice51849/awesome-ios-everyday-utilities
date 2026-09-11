@@ -1,6 +1,6 @@
 # Awesome iOS Everyday Utilities
 
-A curated list of useful iPhone apps for everyday life: time, money, focus, notes, career, tasks, health tracking, study, and astrology. This is a balanced, non-ranked list of established apps and smaller focused utilities.
+A curated list of useful iPhone apps for everyday life: time, money, focus, notes, files and archives, career, tasks, health tracking, study, and astrology. This is a balanced, non-ranked list of established apps and smaller focused utilities.
 
 > **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
 
@@ -12,6 +12,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Sleep & Sound](#sleep--sound)
 - [Voice Notes](#voice-notes)
 - [Notes, Reading & Documents](#notes-reading--documents)
+- [Files & Archives](#files--archives)
 - [Resume & Career](#resume--career)
 - [To-Do](#to-do)
 - [Cycle Tracking](#cycle-tracking)
@@ -72,6 +73,10 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [AI Brief](https://apps.apple.com/app/id6791658210) - Lumi Studio utility that turns screenshots, PDFs, and notes into an organized context brief before you ask an AI assistant. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aibriefpack.html)
 - [OnePage PPT](https://apps.apple.com/app/id6798814385) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/onepageppt.html)
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio document scanner with on-device OCR and Face ID lock; scanning and text recognition work offline. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
+
+## Files & Archives
+
+- [Zipbox: Unzip RAR, ZIP & 7z](https://apps.apple.com/us/app/id6806776579?pt=118326163&ct=gh_aieu_zipbox&mt=8) - Lumi Studio archive utility for browsing and previewing an archive before extracting only the files you need, including password-protected and multipart ZIP, RAR and 7z. Also creates ZIP and 7z archives on-device. · [publisher-authored guide](https://open.cait518.cc/ios-app-guide/hubs/zipbox.html)
 
 ## Resume & Career
 
