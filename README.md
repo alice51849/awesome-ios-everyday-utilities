@@ -74,6 +74,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [OnePage PPT](https://apps.apple.com/app/id6798814385) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/onepageppt.html)
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio document scanner with on-device OCR and Face ID lock; scanning and text recognition work offline. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
 - [CountDaysNow](https://apps.apple.com/app/id6807079789) - Lumi Studio app; Plan backwards from the dates that matter; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/countdaysnow.html)
+- [Studydown](https://apps.apple.com/app/id6807335593) - Lumi Studio app; Choose an activity, tap to start, then place your phone face down on a steady surface; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/studydown.html)
 
 ## Files & Archives
 
