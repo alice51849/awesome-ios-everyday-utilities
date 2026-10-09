@@ -106,6 +106,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 ## Study
 
 - [AnkiMobile Flashcards](https://apps.apple.com/app/id373493387) - Spaced-repetition flashcards for serious long-term memorization.
+- [BrioVocab](https://apps.apple.com/app/id6793255945) - French vocabulary practice with illustrated A1-B2 word sets, custom words, and adaptive spaced repetition.
 - [Quizlet](https://apps.apple.com/app/id546473125) - Flashcards, practice tests, and study sets across many subjects.
 - [Khan Academy](https://apps.apple.com/app/id469863705) - Free lessons and practice across school subjects and test prep.
 - [Forest](https://apps.apple.com/app/id866450515) - Also useful as a study timer for distraction-free sessions.
