@@ -13,6 +13,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Voice Notes](#voice-notes)
 - [Notes, Reading & Documents](#notes-reading--documents)
 - [Files & Archives](#files--archives)
+- [QR Codes](#qr-codes)
 - [Resume & Career](#resume--career)
 - [To-Do](#to-do)
 - [Cycle Tracking](#cycle-tracking)
@@ -29,10 +30,12 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Hours Time Tracking](https://apps.apple.com/app/id895933956) - Simple visual time tracker for logging where time goes.
 - [Timecap](https://apps.apple.com/app/id1446752976) - Habit, timer, and goal tracker for seeing patterns over time.
 - [Spendee](https://apps.apple.com/app/id635861140) - Personal finance app for budgets, wallets, and spending categories.
-- [HoursTag](https://apps.apple.com/app/id6754218117) - Lumi Studio utility for labeling and reflecting on how time is spent. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/hourstag.html)
-- [G+Money](https://apps.apple.com/app/id6755782939) - Lumi Studio money-awareness app for quick personal finance tracking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/gmoney.html)
-- [HoursTag Lite](https://apps.apple.com/app/id6794039979) - Lumi Studio free-to-start companion to HoursTag that shows a purchase's price in hours of your work, on-device with no account. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/hourstaglite.html)
+- [HoursTag](https://apps.apple.com/app/id6754218117) ([Google Play](https://play.google.com/store/apps/details?id=com.caitlyn.hourstag)) - Lumi Studio utility for labeling and reflecting on how time is spent. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/hourstag.html)
+- [G+Money](https://apps.apple.com/app/id6755782939) ([Google Play](https://play.google.com/store/apps/details?id=com.caitlai.globi)) - Lumi Studio money-awareness app for quick personal finance tracking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/gmoney.html)
+- [HoursTag Lite](https://apps.apple.com/app/id6794039979) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.hourstaglite)) - Lumi Studio free-to-start companion to HoursTag that shows a purchase's price in hours of your work, on-device with no account. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/hourstaglite.html)
 - [MoneyTag: Income & Expense](https://apps.apple.com/app/id6801956402) - Lumi Studio project-based income and expense ledger for freelance work, with per-project net results and cross-project tag analysis; on-device, no account. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/moneytag.html)
+- [UsageNow: AI Usage Tracker](https://apps.apple.com/app/id6818607603) - Lumi Studio tracker that shows how much of each AI plan's usage limit is left and when it resets, for Claude, ChatGPT Codex, GitHub Copilot and Gemini; independent of those services, with no UsageNow account or server.
+- [Stay Clock: Flip Desk Clock](https://apps.apple.com/app/id6814035888) - Lumi Studio always-on desk clock for iPhone and iPad with large, readable time, an optional calendar, and keep-awake while charging; no account, ads or tracking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/stayclock.html)
 
 ## Currency & Travel
 
@@ -40,9 +43,9 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Currency](https://apps.apple.com/app/id284942566) - Lightweight converter for quick travel and shopping calculations.
 - [TravelSpend](https://apps.apple.com/app/id1435555567) - Trip expense tracker for budgeting travel costs across currencies.
 - [Splitwise](https://apps.apple.com/app/id458023433) - Shared expense tracker for trips, roommates, and groups.
-- [TripBee](https://apps.apple.com/app/id6787754435) - Lumi Studio pay-once trip planner with day-by-day itineraries and offline access. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/tripbee.html)
-- [TripBee Lite](https://apps.apple.com/app/id6791299610) - Plan one complete journey free, with an optional one-time unlock; no account, ads, tracking, or subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/tripbeelite.html)
-- [G+Money Lite](https://apps.apple.com/app/id6793436548) - Lumi Studio travel expense tracker with currency conversion and saved offline rates; one trip free, one-time unlock for more. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/gmoneylite.html)
+- [TripBee](https://apps.apple.com/app/id6787754435) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.Tripbee)) - Lumi Studio pay-once trip planner with day-by-day itineraries and offline access. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/tripbee.html)
+- [TripBee Lite](https://apps.apple.com/app/id6791299610) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.TripbeeLite)) - Plan one complete journey free, with an optional one-time unlock; no account, ads, tracking, or subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/tripbeelite.html)
+- [G+Money Lite](https://apps.apple.com/app/id6793436548) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.GMoneyLite)) - Lumi Studio travel expense tracker with currency conversion and saved offline rates; one trip free, one-time unlock for more. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/gmoneylite.html)
 - [DailyMate Lite](https://apps.apple.com/app/id6794725568) - Lumi Studio situational travel phrasebook with speaking practice across 50 languages; free to start. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/dailymatelite.html)
 
 ## Focus & Screen Time
@@ -58,19 +61,20 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Rain Rain Sleep Sounds](https://apps.apple.com/app/id942541965) - Large library of rain and ambient loops for sleep and relaxation.
 - [BetterSleep](https://apps.apple.com/app/id1235640465) - Sleep sounds, stories, and tracking for winding down at night.
 - [Sereno](https://apps.apple.com/app/id6788236641) - Lumi Studio pay-once sound machine — mixable white/brown noise for sleep, focus and calm, offline. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/sereno.html)
+- [dB Halo: Sound Meter](https://apps.apple.com/app/id6806826699) - Lumi Studio sound level meter with a live dB readout, A/C/Z weighting, frequency spectrum views and exportable PDF or CSV reports; processing stays on the device. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/dbhalo.html)
 
 ## Voice Notes
 
 - [Otter](https://apps.apple.com/app/id1276437113) - Voice recording with automatic transcription and meeting notes.
 - [Just Press Record](https://apps.apple.com/app/id1033342465) - One-tap audio recording with transcription and iCloud sync.
 - [Noted](https://apps.apple.com/app/id1149425482) - Audio notes with timestamps for lectures, meetings, and interviews.
-- [Sono Note](https://apps.apple.com/app/id6782139553) - Lumi Studio voice-note app for capturing spoken thoughts and reminders. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/sononote.html)
+- [Sono Note](https://apps.apple.com/app/id6782139553) ([Google Play](https://play.google.com/store/apps/details?id=com.caitlyn.clearnotevoice)) - Lumi Studio voice-note app for capturing spoken thoughts and reminders. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/sononote.html)
 
 ## Notes, Reading & Documents
 
 - [100 Notes Studio](https://apps.apple.com/app/id6798813048) - Lumi Studio private offline notebook for handwriting, typed notes, PDF markup, and page-attached audio, built for iPad study. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/notesstudio100.html)
 - [SaveTag](https://apps.apple.com/app/id6802505528) - Lumi Studio read-later bookmark manager for saving links now and actually reading them later. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/savetag.html)
-- [AI Brief](https://apps.apple.com/app/id6791658210) - Lumi Studio utility that turns screenshots, PDFs, and notes into an organized context brief before you ask an AI assistant. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aibriefpack.html)
+- [AI Brief](https://apps.apple.com/app/id6791658210) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.AIBriefPack)) - Lumi Studio utility that turns screenshots, PDFs, and notes into an organized context brief before you ask an AI assistant. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aibriefpack.html)
 - [OnePage PPT](https://apps.apple.com/app/id6798814385) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/onepageppt.html)
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio document scanner with on-device OCR and Face ID lock; scanning and text recognition work offline. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
 - [CountDaysNow](https://apps.apple.com/app/id6807079789) - Lumi Studio app; Plan backwards from the dates that matter; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/countdaysnow.html)
@@ -80,12 +84,16 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 
 - [Zipbox: Unzip RAR, ZIP & 7z](https://apps.apple.com/us/app/id6806776579?pt=118326163&ct=gh_aieu_zipbox&mt=8) - Lumi Studio archive utility for browsing and previewing an archive before extracting only the files you need, including password-protected and multipart ZIP, RAR and 7z. Also creates ZIP and 7z archives on-device. · [publisher-authored guide](https://open.cait518.cc/ios-app-guide/hubs/zipbox.html)
 
+## QR Codes
+
+- [QR Code Halo: Scan & Create](https://apps.apple.com/app/id6806779853) - Lumi Studio QR and barcode app for scanning with the camera or from a photo and creating QR codes for links, Wi-Fi and contacts, with an on-device security check of a scanned code. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/qrcodehalo.html)
+
 ## Resume & Career
 
 - [LinkedIn](https://apps.apple.com/app/id288429040) - Professional networking, job search, and career profile management.
 - [Canva](https://apps.apple.com/app/id897446215) - Design tool with resume and portfolio templates.
 - [Indeed Job Search](https://apps.apple.com/app/id309735670) - Large job-search app with applications, alerts, and saved roles.
-- [CV Desk](https://apps.apple.com/app/id6781337213) - Lumi Studio utility for working on resumes and career documents. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cvdesk.html)
+- [CV Desk](https://apps.apple.com/app/id6781337213) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.cvdesk)) - Lumi Studio utility for working on resumes and career documents. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cvdesk.html)
 
 ## To-Do
 
@@ -109,11 +117,11 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Quizlet](https://apps.apple.com/app/id546473125) - Flashcards, practice tests, and study sets across many subjects.
 - [Khan Academy](https://apps.apple.com/app/id469863705) - Free lessons and practice across school subjects and test prep.
 - [Forest](https://apps.apple.com/app/id866450515) - Also useful as a study timer for distraction-free sessions.
-- [Aim990](https://apps.apple.com/app/id6784974530) - Lumi Studio study utility aimed at focused score or goal preparation. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aim990.html)
+- [Aim990](https://apps.apple.com/app/id6784974530) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.aim990)) - Lumi Studio study utility aimed at focused score or goal preparation. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aim990.html)
 - [Wordmate](https://apps.apple.com/app/id6789917808) - Pay-once vocabulary practice across 44 languages with examples, a Home Screen widget, and Apple Watch support. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/wordmate.html)
 - [DailyMate](https://apps.apple.com/app/id6790418321) - Pay-once practice for 8,400 real-life phrases across 47 languages on iPhone, iPad, widgets, and Apple Watch. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/dailymate.html)
 - [Aim990 Plus](https://apps.apple.com/app/id6792483140) - Lumi Studio paid study trainer for timed, exam-style decision practice. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aim990plus.html)
-- [Wordmate Lite](https://apps.apple.com/app/id6797601720) - Lumi Studio vocabulary app for learning five words a day in about a minute, without building decks; free to start. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/wordmatelite.html)
+- [Wordmate Lite](https://apps.apple.com/app/id6797601720) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.WordmateLite)) - Lumi Studio vocabulary app for learning five words a day in about a minute, without building decks; free to start. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/wordmatelite.html)
 
 ## Astrology
 
@@ -128,7 +136,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 
 ## Network & Battery Diagnostics
 
-- [WiFi Aid](https://apps.apple.com/app/id6790467886) - Lumi Studio paid network diagnostic that runs independent path, DNS, TCP, TLS, timing, and signal checks to find the likely connection problem. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/wifiaid.html)
+- [WiFi Aid](https://apps.apple.com/app/id6790467886) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.WiFiAid)) - Lumi Studio paid network diagnostic that runs independent path, DNS, TCP, TLS, timing, and signal checks to find the likely connection problem. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/wifiaid.html)
 - [WiFi Aid Lite](https://apps.apple.com/app/id6793414462) - Lumi Studio free-to-start network diagnostics with one complete free use per tool and an optional one-time unlock; no ads or tracking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/wifiaidlite.html)
 - [BattAI](https://apps.apple.com/app/id6802423998) - Lumi Studio battery health app with a battery health report and time-to-80% charging estimates; free to start. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/battai.html)
 
