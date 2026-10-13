@@ -101,7 +101,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Todoist](https://apps.apple.com/app/id572688855) - Cross-platform to-do app with natural-language scheduling and collaboration.
 - [TickTick](https://apps.apple.com/app/id626144601) - Tasks, calendar, habits, and Pomodoro in one productivity app.
 - [Notion](https://apps.apple.com/app/id1232780281) - Flexible workspace for notes, projects, databases, and lightweight task systems.
-- [Mochi To-Do](https://apps.apple.com/app/id6785004775) - Lumi Studio to-do app for simple everyday task capture. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochi.html)
+- [Mochi To-Do](https://apps.apple.com/app/id6785004775) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.MochiTodo)) - Lumi Studio to-do app for simple everyday task capture. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochi.html)
 - [Mochi DoneStamp](https://apps.apple.com/app/id6790800323) - Lumi Studio "when did I last…" tracker for household chores and recurring life tasks. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochidonestamp.html)
 
 ## Cycle Tracking
