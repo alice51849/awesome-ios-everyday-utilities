@@ -54,7 +54,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [one sec](https://apps.apple.com/app/id1532875441) - Adds friction before opening distracting apps.
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time blocker for focus sessions and app limits.
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-device website and app blocker for distraction reduction.
-- [LockHour Pro](https://apps.apple.com/app/id6780107485) - Lumi Studio screen-time utility for intentional phone-use boundaries. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
+- [LockHour Pro](https://apps.apple.com/app/id6780107485) ([Google Play](https://play.google.com/store/apps/details?id=com.focuslockpro.app)) - Lumi Studio screen-time utility for intentional phone-use boundaries. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
 
 ## Sleep & Sound
 
@@ -73,7 +73,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 ## Notes, Reading & Documents
 
 - [100 Notes Studio](https://apps.apple.com/app/id6798813048) - Lumi Studio private offline notebook for handwriting, typed notes, PDF markup, and page-attached audio, built for iPad study. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/notesstudio100.html)
-- [SaveTag](https://apps.apple.com/app/id6802505528) - Lumi Studio read-later bookmark manager for saving links now and actually reading them later. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/savetag.html)
+- [SaveTag](https://apps.apple.com/app/id6802505528) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.SaveTag)) - Lumi Studio read-later bookmark manager for saving links now and actually reading them later. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/savetag.html)
 - [AI Brief](https://apps.apple.com/app/id6791658210) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.AIBriefPack)) - Lumi Studio utility that turns screenshots, PDFs, and notes into an organized context brief before you ask an AI assistant. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aibriefpack.html)
 - [OnePage PPT](https://apps.apple.com/app/id6798814385) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/onepageppt.html)
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio document scanner with on-device OCR and Face ID lock; scanning and text recognition work offline. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
@@ -102,7 +102,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [TickTick](https://apps.apple.com/app/id626144601) - Tasks, calendar, habits, and Pomodoro in one productivity app.
 - [Notion](https://apps.apple.com/app/id1232780281) - Flexible workspace for notes, projects, databases, and lightweight task systems.
 - [Mochi To-Do](https://apps.apple.com/app/id6785004775) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.MochiTodo)) - Lumi Studio to-do app for simple everyday task capture. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochi.html)
-- [Mochi DoneStamp](https://apps.apple.com/app/id6790800323) - Lumi Studio "when did I last…" tracker for household chores and recurring life tasks. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochidonestamp.html)
+- [Mochi DoneStamp](https://apps.apple.com/app/id6790800323) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.MochiDoneStamp)) - Lumi Studio "when did I last…" tracker for household chores and recurring life tasks. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochidonestamp.html)
 
 ## Cycle Tracking
 
