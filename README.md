@@ -61,7 +61,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Rain Rain Sleep Sounds](https://apps.apple.com/app/id942541965) - Large library of rain and ambient loops for sleep and relaxation.
 - [BetterSleep](https://apps.apple.com/app/id1235640465) - Sleep sounds, stories, and tracking for winding down at night.
 - [Sereno](https://apps.apple.com/app/id6788236641) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.Sereno)) - Lumi Studio pay-once sound machine — mixable white/brown noise for sleep, focus and calm, offline. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/sereno.html)
-- [dB Halo: Sound Meter](https://apps.apple.com/app/id6806826699) - Lumi Studio sound level meter with a live dB readout, A/C/Z weighting, frequency spectrum views and exportable PDF or CSV reports; processing stays on the device. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/dbhalo.html)
+- [dB Halo: Sound Meter](https://apps.apple.com/app/id6806826699) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.dBHalo)) - Lumi Studio sound level meter with a live dB readout, A/C/Z weighting, frequency spectrum views and exportable PDF or CSV reports; processing stays on the device. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/dbhalo.html)
 
 ## Voice Notes
 
@@ -77,16 +77,16 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [AI Brief](https://apps.apple.com/app/id6791658210) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.AIBriefPack)) - Lumi Studio utility that turns screenshots, PDFs, and notes into an organized context brief before you ask an AI assistant. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aibriefpack.html)
 - [OnePage PPT](https://apps.apple.com/app/id6798814385) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.OnePagePPT)) - Lumi Studio tool that condenses a wall of text into a single summary slide. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/onepageppt.html)
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio document scanner with on-device OCR and Face ID lock; scanning and text recognition work offline. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
-- [CountDaysNow](https://apps.apple.com/app/id6807079789) - Lumi Studio app; Plan backwards from the dates that matter; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/countdaysnow.html)
-- [Studydown](https://apps.apple.com/app/id6807335593) - Lumi Studio app; Choose an activity, tap to start, then place your phone face down on a steady surface; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/studydown.html)
+- [CountDaysNow](https://apps.apple.com/app/id6807079789) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.CountDaysNow)) - Lumi Studio app; Plan backwards from the dates that matter; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/countdaysnow.html)
+- [Studydown](https://apps.apple.com/app/id6807335593) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.Studydown)) - Lumi Studio app; Choose an activity, tap to start, then place your phone face down on a steady surface; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/studydown.html)
 
 ## Files & Archives
 
-- [Zipbox: Unzip RAR, ZIP & 7z](https://apps.apple.com/us/app/id6806776579?pt=118326163&ct=gh_aieu_zipbox&mt=8) - Lumi Studio archive utility for browsing and previewing an archive before extracting only the files you need, including password-protected and multipart ZIP, RAR and 7z. Also creates ZIP and 7z archives on-device. · [publisher-authored guide](https://open.cait518.cc/ios-app-guide/hubs/zipbox.html)
+- [Zipbox: Unzip RAR, ZIP & 7z](https://apps.apple.com/us/app/id6806776579?pt=118326163&ct=gh_aieu_zipbox&mt=8) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.Zipbox)) - Lumi Studio archive utility for browsing and previewing an archive before extracting only the files you need, including password-protected and multipart ZIP, RAR and 7z. Also creates ZIP and 7z archives on-device. · [publisher-authored guide](https://open.cait518.cc/ios-app-guide/hubs/zipbox.html)
 
 ## QR Codes
 
-- [QR Code Halo: Scan & Create](https://apps.apple.com/app/id6806779853) - Lumi Studio QR and barcode app for scanning with the camera or from a photo and creating QR codes for links, Wi-Fi and contacts, with an on-device security check of a scanned code. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/qrcodehalo.html)
+- [QR Code Halo: Scan & Create](https://apps.apple.com/app/id6806779853) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.QRCodeHalo)) - Lumi Studio QR and barcode app for scanning with the camera or from a photo and creating QR codes for links, Wi-Fi and contacts, with an on-device security check of a scanned code. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/qrcodehalo.html)
 
 ## Resume & Career
 
@@ -109,7 +109,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Clue](https://apps.apple.com/app/id657189652) - Period and ovulation tracker with science-focused education.
 - [Flo](https://apps.apple.com/app/id1038369065) - Popular cycle, ovulation, and pregnancy tracking app.
 - [Stardust](https://apps.apple.com/app/id1495829322) - Cycle tracker that combines period tracking with moon-phase themes.
-- [Cyca](https://apps.apple.com/app/id6782251621) - Lumi Studio cycle-awareness app for personal tracking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cyca.html)
+- [Cyca](https://apps.apple.com/app/id6782251621) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.cyca)) - Lumi Studio cycle-awareness app for personal tracking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cyca.html)
 
 ## Study
 
