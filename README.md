@@ -139,6 +139,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [WiFi Aid](https://apps.apple.com/app/id6790467886) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.WiFiAid)) - Lumi Studio paid network diagnostic that runs independent path, DNS, TCP, TLS, timing, and signal checks to find the likely connection problem. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/wifiaid.html)
 - [WiFi Aid Lite](https://apps.apple.com/app/id6793414462) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.WiFiAidLite)) - Lumi Studio free-to-start network diagnostics with one complete free use per tool and an optional one-time unlock; no ads or tracking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/wifiaidlite.html)
 - [BattAI](https://apps.apple.com/app/id6802423998) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.BattAI)) - Lumi Studio battery health app with a battery health report and time-to-80% charging estimates; free to start. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/battai.html)
+- [EasyAM](https://apps.apple.com/app/id6821790092) - Lumi Studio app; Will your alarm ring tomorrow, and should it?; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/easyam.html)
 
 ## Further reading
 
