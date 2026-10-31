@@ -55,6 +55,7 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [Opal](https://apps.apple.com/app/id1497465230) - Screen-time blocker for focus sessions and app limits.
 - [Freedom](https://apps.apple.com/app/id1269788228) - Cross-device website and app blocker for distraction reduction.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) ([Google Play](https://play.google.com/store/apps/details?id=com.focuslockpro.app)) - Lumi Studio screen-time utility for intentional phone-use boundaries. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
+- [Ripple](https://ripplefocus.github.io/) - Free app blocker for iPhone (iOS 16+) and Android. Uses Apple's Screen Time API (FamilyControls, ManagedSettings, DeviceActivity) with parent unlock codes, anti-delete protection, a boot-time clock that ignores manual time changes, and a 15-minute cooldown before rules can be loosened. Runs on-device with no account and no ads. Distributed as a direct IPA download, not through the App Store.
 
 ## Sleep & Sound
 
