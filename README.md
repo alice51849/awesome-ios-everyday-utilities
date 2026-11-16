@@ -79,7 +79,8 @@ A curated list of useful iPhone apps for everyday life: time, money, focus, note
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Lumi Studio document scanner with on-device OCR and Face ID lock; scanning and text recognition work offline. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
 - [CountDaysNow](https://apps.apple.com/app/id6807079789) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.CountDaysNow)) - Lumi Studio app; Plan backwards from the dates that matter; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/countdaysnow.html)
 - [Studydown](https://apps.apple.com/app/id6807335593) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.Studydown)) - Lumi Studio app; Choose an activity, tap to start, then place your phone face down on a steady surface; free to start with an optional one-time unlock, no subscription. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/studydown.html)
-
+- [Earshot](https://apps.apple.com/us/app/id6830550013) - Paid iPhone app (iOS 17+) for on-device text/TXT/selectable-text PDF translation, local bilingual records and PDF export. Bundled HY model use excludes the EU, UK and South Korea, including travel. Unavailable in Mainland China's App Store.
+  
 ## Files & Archives
 
 - [Zipbox: Unzip RAR, ZIP & 7z](https://apps.apple.com/us/app/id6806776579?pt=118326163&ct=gh_aieu_zipbox&mt=8) ([Google Play](https://play.google.com/store/apps/details?id=com.alice51849.Zipbox)) - Lumi Studio archive utility for browsing and previewing an archive before extracting only the files you need, including password-protected and multipart ZIP, RAR and 7z. Also creates ZIP and 7z archives on-device. · [publisher-authored guide](https://open.cait518.cc/ios-app-guide/hubs/zipbox.html)
